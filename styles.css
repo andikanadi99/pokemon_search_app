@@ -1,0 +1,19 @@
+.pokemon-title{
+  display:flex;
+}
+#pokemon-name{
+  margin-right:.5rem;
+}
+.pokemon-attr{
+  display:flex;
+  gap:.2rem
+}
+
+.stats{
+  display:flex;
+  gap:.5rem;
+}
+
+.stats-title{
+  font-weight: bold;
+}
